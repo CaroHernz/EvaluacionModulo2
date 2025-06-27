@@ -46,6 +46,6 @@ El sitio está desarrollado con Bootstrap para garantizar un diseño adaptable a
  - ✔ Comportamiento responsivo (Mobile-First).
  - ✔ Trazabilidad en GitHub (Ramas main, develop, feature/).
 
-1| 👥 Colaboradores |   |   |  |
-2|----------|----------|----------|----------|
-3| [Juan Luis Mansilla](https://github.com/jlmansilla) | [Gonzalo Urrutia](https://github.com/gurrutia15) | [Luis Carrillo](https://github.com/lcarrilloq) | Carolina Hernández(https://github.com/CaroHernz) |
+| 👥 Colaboradores |   |   |  |
+|----------|----------|----------|----------|
+| [Juan Luis Mansilla](https://github.com/jlmansilla) | [Gonzalo Urrutia](https://github.com/gurrutia15) | [Luis Carrillo](https://github.com/lcarrilloq) | [Carolina Hernández](https://github.com/CaroHernz) |
