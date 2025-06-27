@@ -1,8 +1,7 @@
-# PulgaStore
-
-## El Proyecto 
-PulgaStore nace de la necesidad de digitalizar el proceso de ventas, actualmente realizado mediante pedidos telefónicos y correos electrónicos. 
+<h1 align= "center">PulgaStore</h1>
+El Proyecto PulgaStore nace de la necesidad de digitalizar el proceso de ventas, actualmente realizado mediante pedidos telefónicos y correos electrónicos. 
 Este proyecto consiste en el desarrollo de un sitio web estático responsivo que sirva como punto de entrada para un futuro sistema de e-commerce, permitiendo:
+
 * Mostrar productos de manera organizada.
 * Gestionar pedidos y clientes.
 * Facilitar la comunicación mediante un formulario de contacto.
@@ -41,11 +40,11 @@ El sitio está desarrollado con Bootstrap para garantizar un diseño adaptable a
  - Animaciones: Efectos hover, sliders y transiciones.
 
 ## 📌 Requisitos Funcionales Cumplidos
-  ✔ Sitio web estático con Bootstrap (Navbar, Footer, Grid System).
-  ✔ Formulario de contacto con validación JS.
-  ✔ Plugins de jQuery: Fancybox (productos) y DataTables (pedidos).
-  ✔ Comportamiento responsivo (Mobile-First).
-  ✔ Trazabilidad en GitHub (Ramas main, develop, feature/).
+ - ✔ Sitio web estático con Bootstrap (Navbar, Footer, Grid System).
+ - ✔ Formulario de contacto con validación JS.
+ - ✔ Plugins de jQuery: Fancybox (productos) y DataTables (pedidos).
+ - ✔ Comportamiento responsivo (Mobile-First).
+ - ✔ Trazabilidad en GitHub (Ramas main, develop, feature/).
 
 1| 👥 Colaboradores |   |   |  |
 2|----------|----------|----------|----------|
