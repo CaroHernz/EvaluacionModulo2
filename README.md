@@ -11,14 +11,14 @@ Este proyecto consiste en el desarrollo de un sitio web estático responsivo que
 El sitio está desarrollado con Bootstrap para garantizar un diseño adaptable a dispositivos móviles y desktop, e incorpora JavaScript/jQuery para interacciones dinámicas, animaciones y plugins como Fancybox (para galerías de productos) y DataTables (para tablas de pedidos).
 
 ## 🎯 Objetivos
-- ✅ **Centralizar los pedidos:** Eliminar la dependencia de planillas de cálculo y correos electrónicos.
-- ✅ **Mejorar la experiencia del cliente:** Ofrecer un catálogo digital y un formulario de contacto eficiente.
-- ✅ **Optimizar la gestión de ventas:** Facilitar el seguimiento de pedidos y generación de reportes.
-- ✅ **Garantizar accesibilidad móvil:** Diseño responsivo para repartidores y clientes.
+* **Centralizar los pedidos:** Eliminar la dependencia de planillas de cálculo y correos electrónicos.
+* **Mejorar la experiencia del cliente:** Ofrecer un catálogo digital y un formulario de contacto 
+* **Optimizar la gestión de ventas:** Facilitar el seguimiento de pedidos y generación de reportes.
+* **Garantizar accesibilidad móvil:** Diseño responsivo para repartidores y clientes.
 
 ## 🛠 Tecnologías Utilizadas
-* Frontend: HTML5, CSS, JavaScript, JQuery
-* Control de Versiones: Git & GitHub
+* **Frontend:** HTML5, CSS, JavaScript, JQuery
+* **Control de Versiones:** Git & GitHub
 	
 ## 🚀 Estructura del Proyecto
 
@@ -34,17 +34,19 @@ El sitio está desarrollado con Bootstrap para garantizar un diseño adaptable a
 └── 📜 README.md         # Este archivo  
 
 ## 🎨 Características Implementadas
-- 🔹 Navbar & Footer: Diseño consistente en todas las páginas.
-- 🔹 Formulario de Contacto: Validación con JavaScript y SweetAlert2.
-- 🔹 Galería de Productos
-- 🔹 Responsive Design: Adaptable a móviles, tablets y desktop.
-- 🔹 Animaciones: Efectos hover, sliders y transiciones.
+ - Navbar & Footer: Diseño consistente en todas las páginas.
+ - Formulario de Contacto: Validación con JavaScript y SweetAlert2.
+ - Galería de Productos
+ - Responsive Design: Adaptable a móviles, tablets y desktop.
+ - Animaciones: Efectos hover, sliders y transiciones.
 
 ## 📌 Requisitos Funcionales Cumplidos
-* ✔ Sitio web estático con Bootstrap (Navbar, Footer, Grid System).
-* ✔ Formulario de contacto con validación JS.
-* ✔ Plugins de jQuery: Fancybox (productos) y DataTables (pedidos).
-* ✔ Comportamiento responsivo (Mobile-First).
-* ✔ Trazabilidad en GitHub (Ramas main, develop, feature/).
+  ✔ Sitio web estático con Bootstrap (Navbar, Footer, Grid System).
+  ✔ Formulario de contacto con validación JS.
+  ✔ Plugins de jQuery: Fancybox (productos) y DataTables (pedidos).
+  ✔ Comportamiento responsivo (Mobile-First).
+  ✔ Trazabilidad en GitHub (Ramas main, develop, feature/).
 
-## 👥 Colaboradores
+1| 👥 Colaboradores |   |   |  |
+2|----------|----------|----------|----------|
+3| [Juan Luis Mansilla](https://github.com/jlmansilla) | [Gonzalo Urrutia](https://github.com/gurrutia15) | [Luis Carrillo](https://github.com/lcarrilloq) | Carolina Hernández(https://github.com/CaroHernz) |
