@@ -34,17 +34,17 @@ El sitio está desarrollado con Bootstrap para garantizar un diseño adaptable a
 └── 📜 README.md         # Este archivo  
 
 ## 🎨 Características Implementadas
-🔹 Navbar & Footer: Diseño consistente en todas las páginas.
-🔹 Formulario de Contacto: Validación con JavaScript y SweetAlert2.
-🔹 Galería de Productos
-🔹 Responsive Design: Adaptable a móviles, tablets y desktop.
-🔹 Animaciones: Efectos hover, sliders y transiciones.
+- 🔹 Navbar & Footer: Diseño consistente en todas las páginas.
+- 🔹 Formulario de Contacto: Validación con JavaScript y SweetAlert2.
+- 🔹 Galería de Productos
+- 🔹 Responsive Design: Adaptable a móviles, tablets y desktop.
+- 🔹 Animaciones: Efectos hover, sliders y transiciones.
 
 ## 📌 Requisitos Funcionales Cumplidos
-✔ Sitio web estático con Bootstrap (Navbar, Footer, Grid System).
-✔ Formulario de contacto con validación JS.
-✔ Plugins de jQuery: Fancybox (productos) y DataTables (pedidos).
-✔ Comportamiento responsivo (Mobile-First).
-✔ Trazabilidad en GitHub (Ramas main, develop, feature/).
+* ✔ Sitio web estático con Bootstrap (Navbar, Footer, Grid System).
+* ✔ Formulario de contacto con validación JS.
+* ✔ Plugins de jQuery: Fancybox (productos) y DataTables (pedidos).
+* ✔ Comportamiento responsivo (Mobile-First).
+* ✔ Trazabilidad en GitHub (Ramas main, develop, feature/).
 
 ## 👥 Colaboradores
