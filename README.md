@@ -40,9 +40,9 @@ El sitio está desarrollado con Bootstrap para garantizar un diseño adaptable a
  - Animaciones: Efectos hover, sliders y transiciones.
 
 ## 📌 Requisitos Funcionales Cumplidos
- - ✔ Sitio web estático con Bootstrap (Navbar, Footer, Grid System).
+ - ✔ Sitio web estático con Bootstrap (Navbar, Cards, Carrusel de imágenes).
  - ✔ Formulario de contacto con validación JS.
- - ✔ Plugins de jQuery: Fancybox (productos) y DataTables (pedidos).
+ - ✔ Plugins de jQuery: Fancybox.
  - ✔ Comportamiento responsivo (Mobile-First).
  - ✔ Trazabilidad en GitHub (Ramas main, develop, feature/).
 
